@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/451948080923330124/0501f2c399204dbe96008d2f725f1fc0/artifacts
+end_time: 1760686479729
+entry_point_name: ''
+experiment_id: '451948080923330124'
+lifecycle_stage: active
+run_id: 0501f2c399204dbe96008d2f725f1fc0
+run_name: unique-stag-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760686479336
+status: 3
+tags: []
+user_id: aly98
