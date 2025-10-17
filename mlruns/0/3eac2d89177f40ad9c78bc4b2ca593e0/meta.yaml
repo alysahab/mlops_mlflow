@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3eac2d89177f40ad9c78bc4b2ca593e0/artifacts
+end_time: 1760689883413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eac2d89177f40ad9c78bc4b2ca593e0
+run_name: nimble-foal-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760689882908
+status: 4
+tags: []
+user_id: aly98

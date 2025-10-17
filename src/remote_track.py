@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
+import dagshub
 
 
 # Load Wine dataset
@@ -20,11 +21,13 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random
 max_depth = 5
 n_estimators = 20
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
 
 # Create new experiment
+dagshub.init(repo_owner='alysahab', repo_name='my-first-repo', mlflow=True)
+mlflow.set_tracking_uri("https://dagshub.com/alysahab/mlops_mlflow.mlflow")
 
+mlflow.set_experiment("remote_exp1")
 with mlflow.start_run():
     rf =  RandomForestClassifier(n_estimators=n_estimators, max_depth=max_depth)
 
@@ -54,8 +57,6 @@ with mlflow.start_run():
     mlflow.log_metric('accuracy',accuracy)
     mlflow.log_param('n_estimator',n_estimators)
     mlflow.log_param('max_depth',max_depth)
-
-    mlflow.sklearn.log_model(model, 'RandoForestClassifier')
 
 
     

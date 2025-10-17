@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973035928256734597/796fc8563e914e2ba113ef2a1eefbbb5/artifacts
+end_time: 1760689636110
+entry_point_name: ''
+experiment_id: '973035928256734597'
+lifecycle_stage: active
+run_id: 796fc8563e914e2ba113ef2a1eefbbb5
+run_name: bustling-frog-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760689627881
+status: 3
+tags: []
+user_id: aly98

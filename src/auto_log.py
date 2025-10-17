@@ -24,6 +24,9 @@ mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
 
 # Create new experiment
+mlflow.set_experiment("auto_log_exp")
+
+mlflow.autolog()
 
 with mlflow.start_run():
     rf =  RandomForestClassifier(n_estimators=n_estimators, max_depth=max_depth)
@@ -48,15 +51,6 @@ with mlflow.start_run():
     # save plot
     plt.savefig("Confusion-matrix.png")
 
-    mlflow.log_artifact("Confusion-matrix.png")
     mlflow.log_artifact(__file__)
-
-    mlflow.log_metric('accuracy',accuracy)
-    mlflow.log_param('n_estimator',n_estimators)
-    mlflow.log_param('max_depth',max_depth)
-
-    mlflow.sklearn.log_model(model, 'RandoForestClassifier')
-
-
     
 print(accuracy)

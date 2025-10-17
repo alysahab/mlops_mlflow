@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bd47df1204b44403ab3f8a88107460b3/artifacts
+end_time: 1760690150830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd47df1204b44403ab3f8a88107460b3
+run_name: defiant-colt-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760690143712
+status: 3
+tags: []
+user_id: aly98

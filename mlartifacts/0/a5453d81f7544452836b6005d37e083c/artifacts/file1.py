@@ -55,7 +55,7 @@ with mlflow.start_run():
     mlflow.log_param('n_estimator',n_estimators)
     mlflow.log_param('max_depth',max_depth)
 
-    mlflow.sklearn.log_model(model, 'RandoForestClassifier')
+    mlflow.sklearn.log_model("RandoForestClassifier", model)
 
 
     
