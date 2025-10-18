@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304
+creation_time: 1760766265545
+experiment_id: '676809142875164304'
+last_update_time: 1760766265545
+lifecycle_stage: active
+name: hyperparam_tune

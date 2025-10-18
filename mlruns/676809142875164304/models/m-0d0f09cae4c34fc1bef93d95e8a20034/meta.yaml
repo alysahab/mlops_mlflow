@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/models/m-0d0f09cae4c34fc1bef93d95e8a20034/artifacts
+creation_timestamp: 1760766272466
+experiment_id: '676809142875164304'
+last_updated_timestamp: 1760766280144
+model_id: m-0d0f09cae4c34fc1bef93d95e8a20034
+model_type: null
+name: gaudy-lark-962
+source_run_id: 6ac8c30a5d574ef69425e1e6c5e423ea
+status: 2
+status_message: null

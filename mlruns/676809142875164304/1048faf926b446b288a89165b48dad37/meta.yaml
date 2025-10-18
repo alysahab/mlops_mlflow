@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/1048faf926b446b288a89165b48dad37/artifacts
+end_time: 1760766272428
+entry_point_name: ''
+experiment_id: '676809142875164304'
+lifecycle_stage: active
+run_id: 1048faf926b446b288a89165b48dad37
+run_name: suave-trout-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760766272368
+status: 3
+tags: []
+user_id: aly98

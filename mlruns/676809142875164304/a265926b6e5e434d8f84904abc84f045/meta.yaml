@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/a265926b6e5e434d8f84904abc84f045/artifacts
+end_time: 1760766271852
+entry_point_name: ''
+experiment_id: '676809142875164304'
+lifecycle_stage: active
+run_id: a265926b6e5e434d8f84904abc84f045
+run_name: thoughtful-mule-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760766271784
+status: 3
+tags: []
+user_id: aly98

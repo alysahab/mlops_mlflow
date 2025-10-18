@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/d22b843db8aa44259582dac6c45179d1/artifacts
+end_time: 1760766272298
+entry_point_name: ''
+experiment_id: '676809142875164304'
+lifecycle_stage: active
+run_id: d22b843db8aa44259582dac6c45179d1
+run_name: stately-cod-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760766272242
+status: 3
+tags: []
+user_id: aly98

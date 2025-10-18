@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/a85f5cfef175462783d2c7d171feb6c8/artifacts
+end_time: 1760766271725
+entry_point_name: ''
+experiment_id: '676809142875164304'
+lifecycle_stage: active
+run_id: a85f5cfef175462783d2c7d171feb6c8
+run_name: salty-pug-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760766271583
+status: 3
+tags: []
+user_id: aly98

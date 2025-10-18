@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/f55034b94f114ecebe8e7ced7cb6e370/artifacts
+end_time: 1760766272105
+entry_point_name: ''
+experiment_id: '676809142875164304'
+lifecycle_stage: active
+run_id: f55034b94f114ecebe8e7ced7cb6e370
+run_name: monumental-zebra-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760766272045
+status: 3
+tags: []
+user_id: aly98

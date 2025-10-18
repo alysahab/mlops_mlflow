@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/384112a98986490fb1cf04fc833a37bc/artifacts
+end_time: 1760766272167
+entry_point_name: ''
+experiment_id: '676809142875164304'
+lifecycle_stage: active
+run_id: 384112a98986490fb1cf04fc833a37bc
+run_name: agreeable-hawk-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760766272111
+status: 3
+tags: []
+user_id: aly98

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/6ac8c30a5d574ef69425e1e6c5e423ea/artifacts
+end_time: 1760766280193
+entry_point_name: ''
+experiment_id: '676809142875164304'
+lifecycle_stage: active
+run_id: 6ac8c30a5d574ef69425e1e6c5e423ea
+run_name: likeable-wolf-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760766266120
+status: 3
+tags: []
+user_id: aly98

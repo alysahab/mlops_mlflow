@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/bc2add6f0ffe450a931f88dd26bf5c44/artifacts
+end_time: 1760766272363
+entry_point_name: ''
+experiment_id: '676809142875164304'
+lifecycle_stage: active
+run_id: bc2add6f0ffe450a931f88dd26bf5c44
+run_name: stately-hound-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760766272300
+status: 3
+tags: []
+user_id: aly98

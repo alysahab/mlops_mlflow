@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aly98/Desktop/Mlops/mlops_mlflow/mlruns/676809142875164304/450e7ee2d88a42c5ad35ae069075d7f1/artifacts
+end_time: 1760766271784
+entry_point_name: ''
+experiment_id: '676809142875164304'
+lifecycle_stage: active
+run_id: 450e7ee2d88a42c5ad35ae069075d7f1
+run_name: bouncy-mole-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760766271732
+status: 3
+tags: []
+user_id: aly98
